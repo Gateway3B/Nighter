@@ -1,0 +1,17 @@
+{
+  "name": "nighter",
+  "version": "1.0.0",
+  "description": "Discord bot to say good night with the moon phase to those still online.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node src/index.js test",
+    "start": "node src/index.js"
+  },
+  "author": "Gateway3",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "discord.js": "^12.5.3",
+    "request-promise": "^4.2.6"
+  }
+}
