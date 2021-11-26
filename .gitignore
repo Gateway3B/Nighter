@@ -1,4 +1,5 @@
-/config.json
-/node_modules
-/package-lock.json
-/Resources
+node_modules/
+package-lock.json
+*.ai
+config.json
+.vscode
